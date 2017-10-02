@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+go get github.com/TransAssist/goz
 go get github.com/mattn/go-sqlite3
 go get github.com/google/go-github/github
 go get golang.org/x/oauth2

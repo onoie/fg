@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="gf" type="GoRunFileConfiguration" factoryName="Go Single File" singleton="true">
+    <module name="gf" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <method />
+  </configuration>
+</component>

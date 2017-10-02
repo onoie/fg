@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-go build fg.go
+go build main.go
 echo "complete"
 
